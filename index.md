@@ -1,123 +1,73 @@
 ---
 layout: default
+title: "Jizhou Wang"
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- ## About me -->
 
-[Link to another page](./another-page.html).
+Faithful to people and technology, striving to achieve personal and educational goals. I'm always enthusiastic about learning new skills while sharing intriguing ideas in life, computer science, and philosophy.
 
-There should be whitespace between paragraphs.
+Currently a Prof. MSc student in Machine Learning at [Mila](https://mila.quebec/). My academic interest is focused on Meta-Learning and Continual Learning. Applications in mental health and neuroscience are my biggest motivators when it comes to [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[My Hobby 🎹](https://www.youtube.com/watch?v=HgoP2m5pZfQ)
 
-# Header 1
+---
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Projects & Experiences
 
-## Header 2
+**Hockey Goal Prediction \| University of Montreal** \| Fall 2021 [<i class="fa-solid fa-link"></i>](https://jawing.github.io/ift6758-hockey-blog/)  
+\- Performed exploratory data analysis on NHL play-by-play data by building an interactive 2D shot-heatmap using plotly and ipywidget.  
+\- Developed a goal prediction service on flask with docker using the top-performing ensemble models (XGboost) based on their ROC-AUC in comet.ml.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**Navigaze \| McGill Code Jam** \| 2019 [<i class="fa-solid fa-link"></i>](https://devpost.com/software/navigreat-hviz0n)  
+\- Designed a browser extension that generates a table-of-contents from any webpage, text selection using keywords, key sentences for text summarization.  
+\- Developed the backend extractive text summarization model using TextRank algorithm with spaCy and Flask.
 
-### Header 3
+**Toxicity Detection \| McGill** \| 2019 [<i class="fa-solid fa-file"></i>](./papers/Toxicity_Detection.pdf)  
+\- Compared performances across different models such as CNN, LSTM and lexical using ROC-AUC metrics for detecting toxicity while maximizing group fairness across different identity subgroups.  
+\- Worked with pre-trained transformer models (BERT, GPT) and word embeddings such as word2vec, GloVe.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+**Modified MNist Classification \| McGill** \| 2019 [<i class="fa-solid fa-file"></i>](./papers/Modified_Mnist_Classifier.pdf)  
+\- Incrementally tested hyperparameters such as loss functions, optimizers, normalization, dropouts, preprocessing and augmentations (OpenCV) for image classification.  
+\- Worked with state-of-the-art CNN models (Resnet, EfficientNet) and developed ensembles to further increase classification accuracies.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+**Irrelevant.ai \| McGill ImplementAI** \| 2019 [<i class="fa-solid fa-link"></i>](https://devpost.com/software/irrelevant-ai)  
+\- Designed a movie recommendation system with a two-stage supervised learning model from Fast.ai using collaborative filtering and an unsupervised learning model on Scikit-learn with K-means clustering.  
+\- Developed an algorithm that lets the user escape the recommendation feedback loop while maintaining a high predictive user rating.
 
-#### Header 4
+<!-- **Hotel Database Designer \| McGill** \| 2018  
+\- Worked in teams to analyze and understand business and user requirements to create a detailed database design model of a hotel.  
+\- Wrote complex queries and functions using SQL and Java languages for applications to interact with the database. -->
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+**Web Designer \| Centre Saint-Antoine 50+, Montreal, QC** \| 2017 [<i class="fa-solid fa-link"></i>](http://centrestantoine50plus.org/)  
+\- Created a responsive mobile redesign of the website using jQuery, Bootstrap, and AngularJS and Improved the accessibility and ease of use for elderly clients.
 
-##### Header 5
+**Software Engineer Intern \| Microsoft, Beijing** \| 2015  
+\- Maintaining web components and websites for new and existing user clients using HTML, CSS, jQuery, Bootstrap, and AngularJS.  
+\- Prototyped “MicroFriends” a social networking app for interns on android/iOS during the Microsoft Hackathon.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+---
 
-###### Header 6
+## Education
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+**[University of Montreal](https://www.umontreal.ca/) & [Mila](https://mila.quebec/) \| Prof. MSc in Machine Learning** \| 2021-Present  
+**[McGill University](https://www.mcgill.ca/) \| BSc in Statistics & Computer Science** \| 2015-2019  
 
-### There's a horizontal rule below this.
+---
 
-* * *
+## A Little More About Me
 
-### Here is an unordered list:
+I speak English, Mandarin and French. Currently learning Spanish and Japanese.  
+[My Youtube Channel 🎹](https://www.youtube.com/Jawing)  
+[Figure Skating ⛸️](https://youtu.be/mFGLGFv8Mu0?t=116)  
+[A Jazzy Break ☕](https://www.youtube.com/watch?v=SORD03t7nlo)  
+[Favorite Rhythm Game 🎵](https://osu.ppy.sh/home)  
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+**Interesting topics in Computer Science:**  
+[Meta-Learning](https://en.wikipedia.org/wiki/Meta_learning_(computer_science)), [Continual Learning](https://sites.google.com/view/nsl-course/), [GPT3](https://arxiv.org/abs/2005.14165), [ViT](https://arxiv.org/abs/2010.11929), [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg), [AI Ethics](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg)
 
-### And an ordered list:
+---
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+## My Doodles 🎨
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<img style="width:55%;" src="/assets/img/Jawing.gif"/>
