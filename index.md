@@ -27,6 +27,9 @@ Currently a Prof. MSc student in Machine Learning at [Mila](https://mila.quebec/
 \- Compared performances across different models such as CNN, LSTM and lexical using ROC-AUC metrics for detecting toxicity while maximizing group fairness across different identity subgroups.  
 \- Worked with pre-trained transformer models (BERT, GPT) and word embeddings such as word2vec, GloVe.
 
+**SqueezeNet Reproducibility \| McGill** \| 2019 [<i class="fa-solid fa-file"></i>](./papers/Squeezenet_Reproducibility.pdf)  
+\- Analysis of SqueezeNet architecture vs AlexNet on CIFAR-10 by ablation while maintaining the model size reduction intended in SqueezeNet.
+
 **Modified MNist Classification \| McGill** \| 2019 [<i class="fa-solid fa-file"></i>](./papers/Modified_Mnist_Classifier.pdf)  
 \- Incrementally tested hyperparameters such as loss functions, optimizers, normalization, dropouts, preprocessing and augmentations (OpenCV) for image classification.  
 \- Worked with state-of-the-art CNN models (Resnet, EfficientNet) and developed ensembles to further increase classification accuracies.
