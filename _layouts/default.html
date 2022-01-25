@@ -27,7 +27,7 @@
       <div class="sidebar">
         <header>
           {% if site.logo %}
-            <img class="img-circle" rel="prefetch" src="{{site.logo | relative_url}}" alt="Logo">
+          <a href="{{ "/" | absolute_url }}"><img class="img-circle" rel="prefetch" src="{{site.logo | relative_url}}" alt="Logo"></a>
           {% endif %}
 
           {% if site.blank_title %}

@@ -27,9 +27,9 @@ sidebar:
   - name: Youtube
     icon: fa-brands fa-youtube
     link: https://youtube.com/Jawing
-  - name: Misc.
-    icon: fa-regular fa-folder
-    link: /misc
-  # - name: Blog
-  #   icon: fa-solid fa-pen
-  #   link: https://www.bodunhu.com/blog/
+  # - name: Misc.
+  #   icon: fa-regular fa-folder
+  #   link: /misc
+  - name: Blog
+    icon: fa-solid fa-pen
+    link: /blog

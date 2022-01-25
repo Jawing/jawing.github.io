@@ -15,7 +15,7 @@ Currently a Prof. MSc student in Machine Learning at [Mila](https://mila.quebec/
 
 ## Projects & Experiences
 
-**Hockey Goal Prediction \| University of Montreal** \| Fall 2021 [<i class="fa-solid fa-link"></i>](https://jawing.github.io/ift6758-hockey-blog/)  
+**Hockey Goal Prediction \| University of Montreal** \| Fall 2021 [<i class="fa-solid fa-link"></i>](./_posts/2021-11-30-milestone-2.md)  
 \- Performed exploratory data analysis on NHL play-by-play data by building an interactive 2D shot-heatmap using plotly and ipywidget.  
 \- Developed a goal prediction service on flask with docker using the top-performing ensemble models (XGboost) based on their ROC-AUC in comet.ml.
 
