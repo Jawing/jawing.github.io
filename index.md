@@ -60,11 +60,13 @@ Currently a Prof. MSc student in Machine Learning at [Mila](https://mila.quebec/
 
 ## A Little More About Me
 
-I speak English, Mandarin and French. Currently learning Spanish and Japanese.  
-[My Youtube Channel 🎹](https://www.youtube.com/Jawing)  
+Language exchange with me!  
+I speak English, French, Mandarin. Currently learning Spanish and Japanese.  
+
+[Youtube Channel 🎹](https://www.youtube.com/Jawing)  
 [Figure Skating ⛸️](https://youtu.be/mFGLGFv8Mu0?t=116)  
-[A Jazzy Break ☕](https://www.youtube.com/watch?v=SORD03t7nlo)  
-[Favorite Rhythm Game 🎵](https://osu.ppy.sh/home)  
+[A Jazzy Break ☕](https://www.youtube.com/watch?v=6uddGul0oAc)  
+[Rhythm Game 🎵](https://osu.ppy.sh/home)  
 
 **Interesting topics in Computer Science:**  
 [Meta-Learning](https://en.wikipedia.org/wiki/Meta_learning_(computer_science)), [Continual Learning](https://sites.google.com/view/nsl-course/), [GPT3](https://arxiv.org/abs/2005.14165), [ViT](https://arxiv.org/abs/2010.11929), [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg), [AI Ethics](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg)
