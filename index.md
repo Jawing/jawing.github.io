@@ -20,9 +20,9 @@ Currently a Prof. MSc student in Machine Learning at [Mila](https://mila.quebec/
 \- notes
 -->
 
-**Convolution vs Attention for Image Classification\| University of Montreal** \| Winter 2022 [<i class="fa-solid fa-file"></i>](./papers/Conv_vs_Attention.pdf)  
-\- Comparitively analysed vision models (ResNet, ViT, ConvNext) based on convolution or attention architectures using a proxy shape-bias metric on out-of-domain Stylized Imagenet samples to measure generalization performance; with visualization shown [here](./assets/images/shape-bias.html).  
-\- Developed a framework to evaluate the out-of-domain trained models vs in-domain trained models on external medical classification tasks.
+**Convolution vs Attention \| University of Montreal** \| Winter 2022 [<i class="fa-solid fa-file"></i>](./papers/Conv_vs_Attention.pdf)  
+\- Comparatively analyzed vision models (ResNet, ViT, ConvNext) based on convolution or attention architectures using a proxy shape-bias metric on out-of-domain Stylized Imagenet samples to measure generalization performance; with visualization shown [here](./assets/images/shape-bias.html).  
+\- Developed a framework to evaluate the out-of-domain trained models vs in-domain trained models on external medical image classification tasks.
 
 **Hockey Goal Prediction \| University of Montreal** \| Fall 2021 [<i class="fa-solid fa-link"></i>](./_posts/2021-11-30-milestone-2.md)  
 \- Performed exploratory data analysis on NHL play-by-play data by building an interactive 2D shot-heatmap using plotly and ipywidget.  
