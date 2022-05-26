@@ -112,6 +112,15 @@ Google has released several iterations to their Google Analytics code over the y
 
 If you'd like to preview the theme locally (for example, in the process of proposing a change):
 
+Pre-steps (Windows)
+1. Install Ruby via Installer https://rubyinstaller.org/
+2. Install Msys2 via Installer https://www.msys2.org/
+3. Choose option 3 on Ruby launcher: Install MSYS2 and MINGW development toolchain
+4. Install jekyll and bundler: gem update; gem install jekyll bundler; gem install wdm
+5. Install themes: bundle install
+6. Resolve issues if occur: bundle add webrick
+
+Post-steps
 1. Clone down the theme's repository (`git clone https://github.com/BDHU/minimalist`)
 2. `cd` into the theme's directory
 3. Run `script/bootstrap` to install the necessary dependencies

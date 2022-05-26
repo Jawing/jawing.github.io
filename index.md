@@ -7,13 +7,22 @@ title: "Jizhou Wang"
 
 Faithful to people and technology, striving to achieve personal and educational goals. I'm always enthusiastic about learning new skills while sharing intriguing ideas in life, computer science, and philosophy.
 
-Currently a Prof. MSc student in Machine Learning at [Mila](https://mila.quebec/). My academic interest is focused on Meta-Learning and Continual Learning. Applications in mental health and neuroscience are my biggest motivators when it comes to [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning).
+Currently a Prof. MSc student in Machine Learning at [Mila](https://mila.quebec/). My academic interest is focused on Meta-Learning and Continual Learning. Applications in academia, mental health and neuroscience are my biggest motivators when it comes to [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning).
 
 [My Hobby 🎹](https://www.youtube.com/watch?v=HgoP2m5pZfQ)
 
 ---
 
 ## Projects & Experiences
+
+<!-- **Machine Learning Engineer \| Humanware** \| 2022  
+\- Worked in teams to develop computer vision object detection models for visually impaired people.  
+\- notes
+-->
+
+**Convolution vs Attention for Image Classification\| University of Montreal** \| Winter 2022 [<i class="fa-solid fa-file"></i>](./papers/Conv_vs_Attention.pdf)  
+\- Comparitively analysed vision models (ResNet, ViT, ConvNext) based on convolution or attention architectures using a proxy shape-bias metric on out-of-domain Stylized Imagenet samples to measure generalization performance; with visualization shown [here](./assets/images/shape-bias.html).  
+\- Developed a framework to evaluate the out-of-domain trained models vs in-domain trained models on external medical classification tasks.
 
 **Hockey Goal Prediction \| University of Montreal** \| Fall 2021 [<i class="fa-solid fa-link"></i>](./_posts/2021-11-30-milestone-2.md)  
 \- Performed exploratory data analysis on NHL play-by-play data by building an interactive 2D shot-heatmap using plotly and ipywidget.  
@@ -61,7 +70,7 @@ Currently a Prof. MSc student in Machine Learning at [Mila](https://mila.quebec/
 ## A Little More About Me
 
 Language exchange with me!  
-I speak English, French, Mandarin. Currently learning Spanish and Japanese.  
+I speak English, French, Mandarin. Currently learning Spanish, Japanese and Korean.  
 
 [Youtube Channel 🎹](https://www.youtube.com/Jawing)  
 [Figure Skating ⛸️](https://youtu.be/mFGLGFv8Mu0?t=116)  
