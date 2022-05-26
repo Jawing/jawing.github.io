@@ -5,7 +5,7 @@ title: "Jizhou Wang"
 
 <!-- ## About me -->
 
-Faithful to people and technology, striving to achieve personal and educational goals. I'm always enthusiastic about learning new skills while sharing intriguing ideas in life, computer science, and philosophy.
+Faithful to people and technology, striving to achieve personal and educational goals. I'm always enthusiastic about learning new skills while sharing intriguing ideas in life.
 
 Currently a Prof. MSc student in Machine Learning at [Mila](https://mila.quebec/). My academic interest is focused on Meta-Learning and Continual Learning. Applications in academia, mental health and neuroscience are my biggest motivators when it comes to [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning).
 
