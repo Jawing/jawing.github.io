@@ -1,8 +1,8 @@
-title: Jizhou Wang
+title: Jizhou (June) Wang
 blank_title: true
 logo: /assets/img/Jawing.gif
 email: wjz199@gmail.com
-description: Love Flow Entropy 🤍
+description: <a href="https://www.jawing.github.io">🤍</a>
 show_downloads: false
 google_analytics: G-S3Y9V0TSFC
 favicon: true
@@ -13,7 +13,6 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-remote-theme
-
 # sidebar config moved to sidebar.html and links-mobile.html
 # sidebar:
 #   - name: CV
