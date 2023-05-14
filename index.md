@@ -90,6 +90,19 @@ During my free time ♾️, I enjoy mentoring 🤗, figure skating ⛸️, danci
 
 ---
 
-## 🎨 Doodle 🐺
+<div align="center">
+<h2> 🎨 Doodle 🐺 </h2>
+<p><img style="width:55%;" src="/assets/img/Jawing.gif"/></p>
+</div>
 
-<img style="width:55%;" src="/assets/img/Jawing.gif"/>
+---
+
+<div align="center">
+<h2>Poem</h2>
+Past, Present, Future<br/>
+Time Symmetric Mirror<br/>
+Aligning with Entropy<br/>
+Exploring in Harmony<br/>
+Flowing through Space<br/>
+Balancing Embrace
+</div>
