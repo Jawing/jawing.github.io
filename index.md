@@ -9,7 +9,7 @@ An optimistic learner, in harmony with space and time. Striving for openness, co
 
 I'm a graduate researcher at [Mila](https://mila.quebec/) specializing in [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning). My current academic interests focuses on the application of Continual [Multi-agent Reinforcement Learning](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning) in fields such as robotics, education, and healthcare.
 
-During my free time, I enjoy mentoring 🤗, figure skating ⛸️, dancing 💃🕺, playing the piano [🎹](https://www.youtube.com/watch?v=HgoP2m5pZfQ) and learning new languages [🌎](https://mundolingo.org/).
+During my free time ♾️, I enjoy mentoring 🤗, figure skating ⛸️, dancing 💃🕺, playing the piano [🎹](https://www.youtube.com/watch?v=HgoP2m5pZfQ) and learning new languages [🌎](https://mundolingo.org/).
 
 ---
 
