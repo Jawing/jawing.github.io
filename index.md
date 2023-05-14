@@ -7,9 +7,9 @@ title: "Jizhou Wang"
 
 An optimistic learner, in harmony with space and time. Striving for openness, connection and balance in all perspectives. Actively engaged in thought-provoking concepts in life and philosophy.
 
-I'm a recent graduate researcher at [Mila](https://mila.quebec/) specializing in [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning). My current academic interests focuses on the application of Continual [Multi-agent Reinforcement Learning](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning) in fields such as robotics, education, and healthcare. During my free time, I enjoy mentoring, figure skating, dancing, playing the piano and learning new languages.
+I'm a graduate researcher at [Mila](https://mila.quebec/) specializing in [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning). My current academic interests focuses on the application of Continual [Multi-agent Reinforcement Learning](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning) in fields such as robotics, education, and healthcare.
 
-[🎹](https://www.youtube.com/watch?v=HgoP2m5pZfQ)
+During my free time, I enjoy mentoring, figure skating, dancing, playing the piano [🎹](https://www.youtube.com/watch?v=HgoP2m5pZfQ) and learning new languages [🌎](https://mundolingo.org/).
 
 ---
 
@@ -81,12 +81,12 @@ I'm a recent graduate researcher at [Mila](https://mila.quebec/) specializing in
 
 [Youtube Channel 🎹](https://www.youtube.com/Jawing)  
 [Figure Skating ⛸️](https://youtu.be/mFGLGFv8Mu0?t=116)  
-[Brazilian Zouk 💃](https://www.youtube.com/watch?v=hQuFP-26fb4)
+[Brazilian Zouk 💃](https://www.youtube.com/watch?v=hQuFP-26fb4)  
 [A Jazzy Break ☕](https://www.youtube.com/watch?v=6uddGul0oAc)  
 [Rhythm Game 🎵](https://osu.ppy.sh/home)  
 
 **Interesting topics in Computer Science:**  
-[Multi-agent Reinforcement Learning](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning), [Meta-Learning](https://en.wikipedia.org/wiki/Meta_learning_(computer_science)), [Continual Learning](https://sites.google.com/view/nsl-course/), [Contrastive Reinforcement Learning](https://arxiv.org/abs/2206.07568), [AI Ethics](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg)
+[Multi-agent Reinforcement Learning](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning), [Meta-Learning](https://en.wikipedia.org/wiki/Meta_learning_(computer_science)), [Continual Learning](https://sites.google.com/view/nsl-course/), [Contrastive Reinforcement Learning](https://arxiv.org/abs/2206.07568), [AI Safety and Alignment](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg)
 
 ---
 
