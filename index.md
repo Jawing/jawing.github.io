@@ -93,20 +93,19 @@ During my free time, I enjoy mentoring [🤗](https://huggingface.co/), figure s
 ---
 
 <div align="center">
-<h2> 🎨 Art 🐺 </h2>
-<p><img style="width:55%;" src="/assets/img/Jawing.gif"/></p>
-</div>
-
----
-
-<div align="center">
 <h2>🤍</h2>
 Past, Present, Future<br/>
 Time Symmetric Mirror<br/>
 Aligning with Entropy<br/>
 Exploring in Harmony<br/>
 Flowing through Space<br/>
-Balancing Embrace
+Balancing Embrace<br/>
+</div>
+
+---
+
+<div align="center">
+<p><img style="width:55%;" src="/assets/img/Jawing.gif"/></p>
 </div>
 
 ---
