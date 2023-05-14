@@ -5,11 +5,13 @@ title: "Jizhou Wang"
 
 <!-- ## About me -->
 
-An optimistic learner, in harmony with space and time. Striving for openness, connection and balance in all perspectives. Actively engaged in thought-provoking concepts in life and philosophy.
+Optimistic learner in harmony with space and time.  
+Striving for openness, connection and balance.  
+Engaging in thought-provoking ideas.
 
 I'm a graduate researcher at [Mila](https://mila.quebec/) specializing in [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning). My current academic interests focuses on the application of Continual [Multi-agent Reinforcement Learning](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning) in fields such as robotics, education, and healthcare.
 
-During my free time ♾️, I enjoy mentoring 🤗, figure skating ⛸️, dancing 💃🕺, playing the piano [🎹](https://www.youtube.com/watch?v=HgoP2m5pZfQ) and learning new languages [🌎](https://mundolingo.org/).
+During my free time, I enjoy mentoring [🤗](https://huggingface.co/), figure skating [⛸️](https://www.youtube.com/watch?v=nbelrZHSCjU), dancing [💃🕺](https://en.wikipedia.org/wiki/Brazilian_Zouk), playing the piano [🎹](https://www.youtube.com/watch?v=HgoP2m5pZfQ) and learning new languages [🌎](https://mundolingo.org/).
 
 ---
 
@@ -98,7 +100,7 @@ During my free time ♾️, I enjoy mentoring 🤗, figure skating ⛸️, danci
 ---
 
 <div align="center">
-<!-- <h2>📜</h2> -->
+<h2>🤍</h2>
 Past, Present, Future<br/>
 Time Symmetric Mirror<br/>
 Aligning with Entropy<br/>
