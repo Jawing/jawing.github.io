@@ -7,7 +7,6 @@ title: "Jizhou Wang"
 
 Optimistic learner in harmony with space and time.  
 Striving for openness, connection and balance.  
-Engaging in thought-provoking ideas.
 
 I'm a graduate researcher at [Mila](https://mila.quebec/) specializing in [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning). My current academic interests focuses on the application of Continual [Multi-agent Reinforcement Learning](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning) in fields such as robotics, education, and healthcare.
 
