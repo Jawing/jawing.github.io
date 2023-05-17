@@ -73,7 +73,7 @@ During my free time, I enjoy mentoring [🤗](https://huggingface.co/), figure s
 
 ## Education
 
-**[Université de Montréal](https://www.umontreal.ca/) & [Mila](https://mila.quebec/) \| Prof. MSc in Machine Learning** \| 2021-2023  
+**[Université de Montréal](https://www.umontreal.ca/) & [Mila](https://mila.quebec/) \| Prof. MSc in Machine Learning** \| GPA: 3.9/4.0 \| 2021-2023  
 **[McGill University](https://www.mcgill.ca/) \| BSc in Statistics & Computer Science** \| 2015-2019  
 
 ---
