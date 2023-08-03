@@ -92,13 +92,13 @@ During my free time, I enjoy mentoring [🤗](https://huggingface.co/), figure s
 ---
 
 <div align="center">
-<h2>🤍</h2>
-Past, Present, Future<br/>
+<h2>🩶</h2>
+Past Present Future<br/>
 Time Symmetric Mirror<br/>
 Aligning with Entropy<br/>
-Exploring in Harmony<br/>
-Flowing through Space<br/>
-Balancing Embrace<br/>
+Exploring with Harmony<br/>
+Balance Reflective Embrace<br/>
+Flow Permeating Space<br/>
 </div>
 
 ---
