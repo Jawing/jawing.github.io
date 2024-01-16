@@ -16,7 +16,7 @@ During my free time, I enjoy discovering creative ideas through open-source soft
 
 ## Experiences
 
-**Playful Dance Robot \| Open-source Project** \| 2023-Present 
+**Playful Dance Robot \| Open-source Project** \| 2023-Present  
 \- Organized and modeled self-supervised interactive robots through simulation, achieving smooth human-like motion in dance and balance through contrastive pose imitation with [MARL](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning) techniques.  
 \- Experimented with open-source software and frameworks, including Gymnasium, and MuJoCo, simulating robotic interactions and movements; developed adaptive rhythmic objective functions.
 
