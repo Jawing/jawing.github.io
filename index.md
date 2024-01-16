@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Jizhou Wang"
+title: "Jizhou (June) Wang"
 ---
 
 <!-- ## About me -->
@@ -8,15 +8,19 @@ title: "Jizhou Wang"
 An optimistic learner, in harmony with space and time, striving for openness, connection and balance.  
 
 I'm a graduate researcher at [Mila](https://mila.quebec/) specializing in [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning).  
-My current academic interests focuses on the application of Continual [Multi-agent Reinforcement Learning](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning) in fields such as robotics, education, and healthcare.
+My current academic interests focus on the application of [Multi-agent Reinforcement Learning](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning) in fields such as robotics, education and healthcare. 
 
-During my free time, I enjoy mentoring [🤗](https://huggingface.co/), figure skating [⛸️](https://www.youtube.com/watch?v=nbelrZHSCjU), dancing [💃🕺](https://en.wikipedia.org/wiki/Brazilian_Zouk), playing the piano [🎹](https://www.youtube.com/watch?v=HgoP2m5pZfQ) and learning new languages [🌎](https://mundolingo.org/).
+During my free time, I enjoy discovering creative ideas through open-source software and AI such as [ChatGPT 🤖](https://chat.openai.com/), [figure skating ⛸️](https://www.youtube.com/watch?v=nbelrZHSCjU), [dancing 💃🕺](https://en.wikipedia.org/wiki/Brazilian_Zouk), [playing the piano 🎹](https://www.youtube.com/watch?v=HgoP2m5pZfQ) and [learning new languages 🌎](https://mundolingo.org/).
 
 ---
 
 ## Experiences
 
-**Multi-Agent Reinforcement Learning \| McGill University & Mila** \| 2023 [<i class="fa-solid fa-file"></i>](./papers/RL_Project_paper.pdf)  
+**Playful Dance Robot \| Open-source Project** \| 2023-Present 
+\- Organized and modeled self-supervised interactive robots through simulation, achieving smooth human-like motion in dance and balance through contrastive pose imitation with [MARL](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning) techniques.  
+\- Experimented with open-source software and frameworks, including Gymnasium, and MuJoCo, simulating robotic interactions and movements; developed adaptive rhythmic objective functions.
+
+**Multi-Agent Reinforcement Learning (MARL) \| McGill University & Mila** \| 2023 [<i class="fa-solid fa-file"></i>](./papers/RL_Project_paper.pdf)  
 \- Directed a group project focused on the comparative analysis of various Reinforcement Learning (RL) algorithms including Deep Q-Network, and Proximal Policy Optimization (PPO) within the multi-agent [Space-Invader](https://pettingzoo.farama.org/environments/atari/space_invaders/) Atari game in the PettingZoo environment; presentation shown [here](https://youtu.be/U5Z_gL2xs4w).  
 \- Creatively experimented with reward functions, network structure and hyperparameters that led to insights for optimizing the agents' total return. Identified potential limitations and proposed future research directions including Self-Supervised RL and Offline-RL.
 
