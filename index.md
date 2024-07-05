@@ -16,9 +16,8 @@ During my free time, I enjoy discovering creative ideas through open-source soft
 
 ## Experiences
 
-**Playful Dance Robot \| Open-source Project** \| 2023-Present  
-\- Organized and modeled self-supervised interactive robots through simulation, achieving smooth human-like motion in dance and balance through contrastive pose imitation with [MARL](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning) techniques.  
-\- Experimented with open-source software and frameworks, including Gymnasium, and MuJoCo, simulating robotic interactions and movements; developed adaptive rhythmic objective functions.
+**Multi-agent Acrobot \| Research Project** \| 2023-Present  
+\- Experimenting with open-source software and frameworks, including [Gymnasium](https://gymnasium.farama.org/index.html), and [MuJoCo](https://mujoco.org/), simulating cooperative and balancing robotic interactions and movements through self-supervised learning.
 
 **Multi-Agent Reinforcement Learning (MARL) \| McGill University & Mila** \| 2023 [<i class="fa-solid fa-file"></i>](./papers/RL_Project_paper.pdf)  
 \- Directed a group project focused on the comparative analysis of various Reinforcement Learning (RL) algorithms including Deep Q-Network, and Proximal Policy Optimization (PPO) within the multi-agent [Space-Invader](https://pettingzoo.farama.org/environments/atari/space_invaders/) Atari game in the PettingZoo environment; presentation shown [here](https://youtu.be/U5Z_gL2xs4w).  
