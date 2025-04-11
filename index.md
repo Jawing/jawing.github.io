@@ -5,12 +5,9 @@ title: "Jizhou (June) Wang"
 
 <!-- ## About me -->
 
-An optimistic learner, in harmony with space and time, striving for openness, connection and balance.  
+I'm currently interested in the research and application of [multi-agent reinforcement learning](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning) and [animal communication technologies](https://en.wikipedia.org/wiki/Animal_communication).
 
-I'm a graduate researcher at [Mila](https://mila.quebec/) specializing in [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning).  
-My current academic interests focus on the application of [Multi-agent Reinforcement Learning](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning) in fields such as robotics, education and healthcare. 
-
-During my free time, I enjoy discovering creative ideas through open-source software and AI such as [ChatGPT 🤖](https://chat.openai.com/), [figure skating ⛸️](https://www.youtube.com/watch?v=nbelrZHSCjU), [dancing 💃🕺](https://en.wikipedia.org/wiki/Brazilian_Zouk), [playing the piano 🎹](https://www.youtube.com/watch?v=HgoP2m5pZfQ) and [learning new languages 🌎](https://mundolingo.org/).
+During my free time, I enjoy connecting with [local communities](https://www.quartierdesspectacles.com/en/festivals-and-events), [figure skating ⛸️](https://www.youtube.com/watch?v=nbelrZHSCjU), [dancing 💃🕺](https://en.wikipedia.org/wiki/Brazilian_Zouk), [playing the piano 🎹](https://www.youtube.com/watch?v=HgoP2m5pZfQ) and [learning new languages 🌎](https://mundolingo.org/).
 
 ---
 
@@ -76,7 +73,7 @@ During my free time, I enjoy discovering creative ideas through open-source soft
 
 ## Education
 
-**[Université de Montréal](https://www.umontreal.ca/) & [Mila](https://mila.quebec/) \| Prof. MSc in Machine Learning** \| GPA: 3.9/4.0 \| 2021-2023  
+**[Université de Montréal](https://www.umontreal.ca/) & [Mila](https://mila.quebec/) \| Prof. MSc in Machine Learning** \| 2021-2023  
 **[McGill University](https://www.mcgill.ca/) \| BSc in Statistics & Computer Science** \| 2015-2019  
 
 ---
@@ -88,9 +85,6 @@ During my free time, I enjoy discovering creative ideas through open-source soft
 [Brazilian Zouk 💃](https://www.youtube.com/watch?v=hQuFP-26fb4)  
 [A Jazzy Break ☕](https://www.youtube.com/watch?v=6uddGul0oAc)  
 [Rhythm Game 🎵](https://osu.ppy.sh/home)  
-
-**Interesting topics in Computer Science:**  
-[Multi-agent Reinforcement Learning](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning), [Meta-Learning](https://en.wikipedia.org/wiki/Meta_learning_(computer_science)), [Continual Learning](https://sites.google.com/view/nsl-course/), [Contrastive Reinforcement Learning](https://arxiv.org/abs/2206.07568), [AI Safety and Alignment](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg)
 
 ---
 
