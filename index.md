@@ -1,13 +1,11 @@
 ---
 layout: default
-title: "Jizhou (June) Wang"
+title: "June"
 ---
 
 <!-- ## About me -->
 
-I'm currently interested in the research and application of [multi-agent reinforcement learning](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning) and [animal communication technologies](https://en.wikipedia.org/wiki/Animal_communication).
-
-During my free time, I enjoy connecting with [local communities](https://www.quartierdesspectacles.com/en/festivals-and-events), [figure skating ⛸️](https://www.youtube.com/watch?v=nbelrZHSCjU), [dancing 💃🕺](https://en.wikipedia.org/wiki/Brazilian_Zouk), [playing the piano 🎹](https://www.youtube.com/watch?v=HgoP2m5pZfQ) and [learning new languages 🌎](https://mundolingo.org/).
+Currently exploring research and application of [multi-agent reinforcement learning](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning)
 
 ---
 
@@ -78,13 +76,8 @@ During my free time, I enjoy connecting with [local communities](https://www.qua
 
 ---
 
-## Extras
-
-[Youtube Channel 🎹](https://www.youtube.com/Jawing)  
-[Figure Skating ⛸️](https://youtu.be/mFGLGFv8Mu0?t=116)  
-[Brazilian Zouk 💃](https://www.youtube.com/watch?v=hQuFP-26fb4)  
-[A Jazzy Break ☕](https://www.youtube.com/watch?v=6uddGul0oAc)  
-[Rhythm Game 🎵](https://osu.ppy.sh/home)  
+## Extra
+[🎵](https://osu.ppy.sh/home)
 
 ---
 
