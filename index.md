@@ -89,7 +89,6 @@ During my free time, I enjoy connecting with [local communities](https://www.qua
 ---
 
 <div align="center">
-<h2>🩶</h2>
 Past Present Future<br/>
 Time Symmetric Mirror<br/>
 Aligning with Entropy<br/>
