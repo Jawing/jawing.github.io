@@ -76,8 +76,9 @@ Currently exploring research and application of [multi-agent reinforcement learn
 
 ---
 
-## Extra
+<div align="center">
 [🎵](https://osu.ppy.sh/home)
+</div>
 
 ---
 
