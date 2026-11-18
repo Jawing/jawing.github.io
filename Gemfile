@@ -10,7 +10,7 @@ gem "jekyll-seo-tag"
 gem "jekyll-sitemap"
 gem "jekyll-remote-theme"
 
-gem "wdm", ">= 0.1.0"
+gem "wdm", ">= 0.1.0", platforms: [:mingw, :x64_mingw, :mswin]
 
 # https://github.com/jekyll/jekyll/issues/8523#issuecomment-751409319
 # When running locally, we run into the following error —
