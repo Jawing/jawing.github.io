@@ -35,11 +35,11 @@ hvr -> hover
 
 @mixin colors {
   // buttons
-  --L-a-text-hover-change: 0.8; //the number that --L-a-text gets changed by when it is hovered eg a button has 30% luminosity when left it luminosity is then timesed by 0.8 when the button is hovered
-  --clr-a-text: hsl(200, 100%, var(--L-a-text));
+  --L-a-text-hover-change: 0.82; //the number that --L-a-text gets changed by when it is hovered eg a button has 30% luminosity when left it luminosity is then timesed by 0.8 when the button is hovered
+  --clr-a-text: hsl(210, 42%, var(--L-a-text));
   --clr-a-text-hvr: hsl(
-    200,
-    100%,
+    210,
+    48%,
     calc(var(--L-a-text) * var(--L-a-text-hover-change))
   );
   --clr-buttons-main-bg: hsl(
@@ -51,10 +51,10 @@ hvr -> hover
   --clr-buttons-main-text: hsl(0, 0%, var(--L-buttons-main-text));
   --clr-buttons-main-text-hover: hsl(0, 6%, var(--L-buttons-main-text-hover));
   // headers + text
-  --clr-h1-and-bold: hsl(0, 0%, var(--L-h1-and-bold));
-  --clr-h2: hsl(0, 0%, var(--L-h2));
-  --clr-h-3-6: hsl(0, 0%, var(--L-h-3-6));
-  --clr-text: hsl(0, 0%, var(--L-text));
+  --clr-h1-and-bold: hsl(var(--text-h, 0), var(--text-s, 0%), var(--L-h1-and-bold));
+  --clr-h2: hsl(var(--text-h, 0), var(--text-s, 0%), var(--L-h2));
+  --clr-h-3-6: hsl(var(--text-h, 0), var(--text-s, 0%), var(--L-h-3-6));
+  --clr-text: hsl(var(--text-h, 0), var(--text-s, 0%), var(--L-text));
   // code blocks
   --clr-code-text: hsl(0, 0%, var(--L-code-text));
   --clr-code-bg: hsl(0, 0%, var(--L-code-bg));
@@ -70,10 +70,10 @@ hvr -> hover
   ); // akbd elemnts border bottom and its shadow color
   --clr-kbd-text: hsl(210, 11.7%, var(--L-kbd-text));
   // miselainies
-  --clr-bg: hsl(0, 0%, var(--L-bg)); //the bg of the page
+  --clr-bg: hsl(var(--bg-h, 0), var(--bg-s, 0%), var(--L-bg)); //the bg of the page
   --clr-splitter-blockquote-and-section: hsl(
-    0,
-    0%,
+    var(--bg-h, 0),
+    var(--bg-s, 0%),
     var(--L-splitter-blockquote-and-section)
   ); //a color for the lines that split tables, appear on the left pf blockquotes and mark new sections
   --clr-small-in-a: hsl(
@@ -89,47 +89,55 @@ hvr -> hover
 }
 
 @mixin light-colors {
+  --bg-h: 40;
+  --bg-s: 14%;
+  --text-h: 30;
+  --text-s: 6%;
   // buttons
-  --L-a-text: 35%;
-  --L-buttons-main-bg: 96%;
-  --L-buttons-main-border: 88%;
-  --L-buttons-main-text: 40%;
-  --L-buttons-main-text-hover: 38%;
+  --L-a-text: 40%;
+  --L-buttons-main-bg: 93%;
+  --L-buttons-main-border: 85%;
+  --L-buttons-main-text: 35%;
+  --L-buttons-main-text-hover: 28%;
   // headers + text
-  --L-h1-and-bold: 13%;
-  --L-h2: 22%;
-  --L-h-3-6: 29%;
-  --L-text-bold: 36%;
-  --L-text: 45%;
+  --L-h1-and-bold: 18%;
+  --L-h2: 24%;
+  --L-h-3-6: 30%;
+  --L-text-bold: 32%;
+  --L-text: 36%;
   // code blocks
-  --L-code-text: 20%;
-  --L-code-bg: 97%;
-  --L-code-border: 90%;
-  --L-code-bold-text: 0%;
+  --L-code-text: 24%;
+  --L-code-bg: 93%;
+  --L-code-border: 86%;
+  --L-code-bold-text: 12%;
   //kbd these are keyboard shortcuts eg <kbd>CMD+R</kbd>
-  --L-kbd-bg: 98%;
+  --L-kbd-bg: 95%;
   --L-kbd-border: 80%;
-  --L-kbd-border-bottom-and-shadow: 62%;
+  --L-kbd-border-bottom-and-shadow: 65%;
   --L-kbd-text: 30%;
   // misilainius
-  --L-bg: 100%;
-  --L-splitter-blockquote-and-section: 90%; //for elements like hr + blockquote
+  --L-bg: 96%;
+  --L-splitter-blockquote-and-section: 86%; //for elements like hr + blockquote
   --L-small-in-a: 47%;
   --L-table-header-and-dt: 27%; //more on dt's https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_dd_test
 }
 
 @mixin dark-colors {
+  --bg-h: 220;
+  --bg-s: 8%;
+  --text-h: 220;
+  --text-s: 6%;
   // buttons
-  --L-a-text: 60%;
-  --L-buttons-main-bg: 17%;
-  --L-buttons-main-border: 26%;
+  --L-a-text: 66%;
+  --L-buttons-main-bg: 19%;
+  --L-buttons-main-border: 28%;
   --L-buttons-main-text: 76%;
-  --L-buttons-main-text-hover: 80%;
+  --L-buttons-main-text-hover: 84%;
   // headers + text
-  --L-h1-and-bold: 90%;
-  --L-h2: 83%;
+  --L-h1-and-bold: 88%;
+  --L-h2: 82%;
   --L-h-3-6: 76%;
-  --L-text: 70%;
+  --L-text: 72%;
   // code blocks
   --L-code-text: 80%;
   --L-code-bg: 3%;
@@ -141,8 +149,8 @@ hvr -> hover
   --L-kbd-border-bottom-and-shadow: 55%;
   --L-kbd-text: 100%;
   // misilainius
-  --L-splitter-blockquote-and-section: 15%; // for elements like hr and blockquote
-  --L-bg: 10%;
+  --L-splitter-blockquote-and-section: 24%; // for elements like hr and blockquote
+  --L-bg: 14%;
   --L-small-in-a: 60%;
   --L-table-header-and-dt: 90%; //more on dt's https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_dd_test
 }

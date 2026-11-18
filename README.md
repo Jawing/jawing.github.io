@@ -1,3 +1,23 @@
+# jawing.github.io
+
+Personal website for June, hosted at [jawing.github.io](https://jawing.github.io/) and built on the [Minimalist](https://github.com/BDHU/minimalist) Jekyll theme with a softened neutral light/dark palette and an OS-aware theme toggle.
+
+## Local Development (Windows + Docker)
+
+Ensure **Docker Desktop** is running, then run from PowerShell in the repo root:
+
+* **Live preview (`http://localhost:4000`):**
+  ```powershell
+  docker run --rm -v "${PWD}:/srv/jekyll" -p 4000:4000 jekyll/jekyll bash -c "bundle install --quiet && bundle exec jekyll serve --host 0.0.0.0 --force_polling"
+  ```
+
+* **Build only:**
+  ```powershell
+  docker run --rm -v "${PWD}:/srv/jekyll" jekyll/jekyll bash -c "bundle install --quiet && bundle exec jekyll build"
+  ```
+
+---
+
 # The Minimalist theme
 
 *Minimalist is a Jekyll theme, inspired by the [Minimal](https://github.com/pages-themes/minimal) theme from GitHub. You can [preview the theme to see what it looks like](http://bdhu.github.io/minimalist), or even [use it today](#usage).*

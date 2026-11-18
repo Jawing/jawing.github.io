@@ -27,7 +27,7 @@
       <div class="sidebar">
         <header>
           {% if site.logo %}
-            <a href="{{ "/" | absolute_url }}"><img class="img-circle" src="{{site.logo | relative_url}}" alt="Logo"></a>
+            <a href="{{ "/" | relative_url }}"><img class="img-circle" src="{{site.logo | relative_url}}" alt="Logo"></a>
           {% endif %}
 
           {% if site.blank_title %}
@@ -58,5 +58,42 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script>
+      (function () {
+        var buttons = document.querySelectorAll('.theme-toggle');
+        if (!buttons.length) return;
+        var mq = window.matchMedia('(prefers-color-scheme: dark)');
+
+        function currentTheme() {
+          var t = document.documentElement.dataset.theme;
+          if (t === 'light' || t === 'dark') return t;
+          return mq.matches ? 'dark' : 'light';
+        }
+
+        function syncButtons() {
+          var isDark = currentTheme() === 'dark';
+          var iconClass = isDark ? 'fa-solid fa-sun' : 'fa-solid fa-moon';
+          var label = isDark ? 'Switch to light mode' : 'Switch to dark mode';
+          buttons.forEach(function (btn) {
+            var icon = btn.querySelector('i');
+            if (icon) icon.className = iconClass;
+            btn.setAttribute('aria-label', label);
+            btn.setAttribute('title', label);
+          });
+        }
+
+        buttons.forEach(function (btn) {
+          btn.addEventListener('click', function () {
+            var next = currentTheme() === 'dark' ? 'light' : 'dark';
+            document.documentElement.dataset.theme = next;
+            localStorage.setItem('theme', next);
+            syncButtons();
+          });
+        });
+
+        mq.addEventListener('change', syncButtons);
+        syncButtons();
+      })();
+    </script>
   </body>
 </html>

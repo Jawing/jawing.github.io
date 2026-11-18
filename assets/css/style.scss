@@ -71,3 +71,37 @@
     width: 70%;
   }
 }
+
+body {
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.footer-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
+}
+
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2px 4px;
+  border: none;
+  background: transparent;
+  color: var(--clr-text);
+  font: inherit;
+  font-size: 12px;
+  line-height: 1;
+  cursor: pointer;
+  opacity: 0.75;
+  transition: color 0.15s ease, opacity 0.15s ease;
+}
+
+.theme-toggle:hover,
+.theme-toggle:focus-visible {
+  color: var(--clr-a-text-hvr);
+  opacity: 1;
+  outline: none;
+}

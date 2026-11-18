@@ -10,7 +10,15 @@
 
 @media screen and (prefers-color-scheme: dark) {
   //we would not like to apply dark mode if content is on printer as that would use a lot of ink
-  :root {
+  :root:not([data-theme="light"]) {
     @include dark-colors;
   }
+}
+
+:root[data-theme="light"] {
+  @include light-colors;
+}
+
+:root[data-theme="dark"] {
+  @include dark-colors;
 }

@@ -11,7 +11,7 @@ Currently exploring research and application of [multi-agent reinforcement learn
 
 ## Experiences
 
-**Multi-agent Acrobot \| Research Project** \| 2023-Present  
+**Multi-agent Acrobot \| Research Project** \| 2024-Present  
 \- Experimenting with open-source software and frameworks, including [Gymnasium](https://gymnasium.farama.org/index.html), and [MuJoCo](https://mujoco.org/), simulating cooperative and balancing robotic interactions and movements through self-supervised learning.
 
 **Multi-Agent Reinforcement Learning (MARL) \| McGill University & Mila** \| 2023 [<i class="fa-solid fa-file"></i>](./papers/RL_Project_paper.pdf)  

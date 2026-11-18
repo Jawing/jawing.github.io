@@ -1,4 +1,12 @@
 <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+<script>
+  (function () {
+    var saved = localStorage.getItem('theme');
+    if (saved === 'light' || saved === 'dark') {
+      document.documentElement.dataset.theme = saved;
+    }
+  })();
+</script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css">
 
 <!-- Setup Google Analytics -->
