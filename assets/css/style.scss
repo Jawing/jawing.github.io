@@ -76,6 +76,14 @@ body {
   transition: background-color 0.2s ease, color 0.2s ease;
 }
 
+section p + ul {
+  margin-top: -12px;
+}
+
+section ul li + li {
+  margin-top: 4px;
+}
+
 .footer-row {
   display: flex;
   align-items: center;

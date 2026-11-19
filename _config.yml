@@ -25,12 +25,6 @@ sidebar:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/Jawing
-  - name: Instagram
-    icon: <i class="fa-brands fa-instagram"></i>
-    link: https://www.instagram.com/june_omi
-  - name: YouTube
-    icon: <i class="fa-brands fa-youtube"></i>
-    link: https://youtube.com/Jawing
   - name: Blog
     icon: <i class="fa-solid fa-pen"></i>
     link: /blog
