@@ -10,7 +10,7 @@ Machine Learning and Statistics graduate ([UdeM](https://www.umontreal.ca/) & [M
 ## Current Work
 
 **Freelance AI Trainer & Model Evaluator** \| Self-Employed \| 2026–Present
-- Assessing and ranking LLM responses (RLHF) across logical reasoning, Python code correctness, and safety rubrics to improve alignment, documenting stability issues with multi-turn adversarial prompts and Python verification checks.
+- Assessing and ranking LLM responses (RLHF) across logical reasoning, Python code correctness, and safety rubrics to improve alignment and quality, documenting stability issues with multi-turn adversarial prompts and Python verification checks.
 - Fact-checking model outputs against primary sources to catch subtle hallucinations and constraint violations under structured evaluation guidelines.
 
 **Co-Founder — Agentic Conversation Partner** \| Early-Stage Startup \| 2026–Present
