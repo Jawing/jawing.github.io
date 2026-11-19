@@ -76,12 +76,24 @@ body {
   transition: background-color 0.2s ease, color 0.2s ease;
 }
 
+section ul {
+  padding-left: 1.25em;
+}
+
 section p + ul {
   margin-top: -12px;
 }
 
+section h3 + ul {
+  margin-top: -10px;
+}
+
 section ul li + li {
   margin-top: 4px;
+}
+
+section hr {
+  margin: 28px auto;
 }
 
 .footer-row {
