@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "June"
 ---
 
 Machine Learning and Statistics graduate ([UdeM](https://www.umontreal.ca/) & [Mila](https://mila.quebec/) MSc, [McGill](https://www.mcgill.ca/) BSc) exploring how [multi-agent systems](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning) and conversational AI learn through interaction. Currently building cooperative simulations in [Gymnasium](https://gymnasium.farama.org/index.html) and [MuJoCo](https://mujoco.org/) alongside an early-stage agentic conversational AI prototype that adapts from zero context.
