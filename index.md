@@ -2,26 +2,23 @@
 layout: default
 ---
 
-Machine Learning and Statistics graduate ([UdeM](https://www.umontreal.ca/) & [Mila](https://mila.quebec/) MSc, [McGill](https://www.mcgill.ca/) BSc) exploring how [multi-agent systems](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning) and conversational AI learn through interaction. Currently building cooperative simulations in [Gymnasium](https://gymnasium.farama.org/index.html) and [MuJoCo](https://mujoco.org/) alongside an early-stage agentic conversational AI prototype that adapts from zero context.
+Machine Learning and Statistics graduate ([UdeM](https://www.umontreal.ca/) & [Mila](https://mila.quebec/) MSc, [McGill](https://www.mcgill.ca/) BSc) exploring [multi-agent reinforcement learning](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning) and interactive AI systems. Co-founder of [Omi AI](https://github.com/Jawing/Omi), building cooperative [Gymnasium](https://gymnasium.farama.org/index.html) and [MuJoCo](https://mujoco.org/) simulations alongside a self-exploring agentic partner that adapts through multimodal dialogue.
 
 ---
 
 ## Current Work
 
-**Freelance AI Trainer & Model Evaluator** \| Self-Employed \| 2026–Present
+**Co-Founder & ML Researcher — [Omi AI](https://github.com/Jawing/Omi)** \| Montréal, QC \| 2024–Present
+- Developing a general self-exploring agentic partner that adapts and questions user actions through proactive multimodal dialogue and reflective feedback within a multi-agent RL environment.
+- Simulating cooperative and adversarial agent-user interactions in [Gymnasium](https://gymnasium.farama.org/index.html) and [MuJoCo](https://mujoco.org/) using self-supervised RL with self-generated random environments and structured tasks.
+- Building end-to-end training and multi-turn evaluation workflows to analyze agent-user behavior, alignment, model evolution, and failure modes—testing policies against instability and reward hacking under shifting dynamics.
+
+**Prediction Market Tool** \| [Open Source](https://github.com/Jawing/predict) \| 2026–Present
+- Built a Python CLI analysis tool querying live prediction market APIs to estimate calibrated probabilities, evaluating statistical edge and tracking user forecasting accuracy over time.
+
+**AI Trainer & Model Evaluator** \| Freelance \| 2025–Present
 - Assessing and ranking LLM responses (RLHF) across logical reasoning, Python code correctness, and safety rubrics to improve alignment and quality, documenting stability issues with multi-turn adversarial prompts and Python verification checks.
 - Fact-checking model outputs against primary sources to catch subtle hallucinations and constraint violations under structured evaluation guidelines.
-
-**Co-Founder — Agentic Conversation Partner** \| Early-Stage Startup \| 2026–Present
-- Developing a general conversational partner that adapts and questions user thinking through proactive dialogue and reflective feedback within a multi-agent RL environment from zero context.
-- Analyzing agent behavior, alignment, model architecture evolution, and failure states to monitor and stabilize long-term consistency and variability.
-
-**Multi-Agent Simulation and Interactions** \| Independent Research \| 2024–Present
-- Simulating cooperative and adversarial agent movements in [Gymnasium](https://gymnasium.farama.org/index.html) and [MuJoCo](https://mujoco.org/) using self-supervised RL with simple random environments and structured tasks.
-- Testing policies against instability and reward-hacking failure modes under shifting dynamics.
-
-**Prediction Market Tool** \| [Open Source Application](https://github.com/Jawing/predict) \| 2026–Present
-- Built a Python CLI analysis tool querying live prediction market APIs to estimate calibrated probabilities, evaluating statistical edge and tracking user forecasting accuracy over time.
 
 ---
 
